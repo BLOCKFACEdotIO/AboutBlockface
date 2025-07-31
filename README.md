@@ -32,6 +32,3 @@ Welcome to **Blockface**, the decentralized social media platform built for the 
 - **Other:** Ethers.js, RainbowKit, Zod, Zustand, Lens Protocol (optional)
 
 ---
-
-git clone https://github.com/yourname/blockface.git
-cd blockface
